@@ -1,0 +1,43 @@
+[
+        {
+            "token": "1",
+            "url" : "https://stream.splug.com.br/Radio06",
+            "name" : "rádio pirâmide fm",
+            "speaker" : "tocando rádio pirâmide fm de São joão",
+            "metadata" : {
+                "title" : "Rádio Pirâmide FM",
+                "subtitle" : "Rádio Pirâmide FM 99.1 Mhz São João PR"
+            }
+        },
+        {
+            "token": "2",
+            "url" : "https://stream.splug.com.br/Radio05",
+            "name" : "rádio São João",
+            "speaker" : "tocando rádio São João de São joão",
+            "metadata" : {
+                "title" : "Rádio São João",
+                "subtitle" : "Rádio São João 1580 Khz São João PR"
+            }
+        },
+        {
+            "token": "3",
+            "url" : "https://radio.viaflux.com/p/?radio=fenix",
+            "name" : "rádio Fênix fm",
+            "speaker" : "tocando rádio Fênix FM de São joão",
+            "metadata" : {
+                "title" : "Rádio Fênix FM",
+                "subtitle" : "Rádio Fênix FM 87.9 Mhz São João PR"
+            }
+        },
+        {
+            "token": "4",
+            "url" : "https://stm01.virtualcast.com.br:8124/massafrancisbeltrao",
+            "name" : "rádio massa fm",
+            "speaker" : "tocando rádio Massa FM de Francisco Beltrão",
+            "metadata" : {
+                "title" : "Rádio Massa FM",
+                "subtitle" : "Rádio Massa FM 95.3 Mhz Francisco Beltrão PR"
+            }
+        }
+        
+    ]
